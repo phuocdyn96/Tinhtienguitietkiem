@@ -1,7 +1,7 @@
 import streamlit as st
 st.image("IMG_1772104929205_1772175706706.jpg")
 # Tiêu đề ứng dụng
-st.title("💰 Ứng dụng tính tiền gửi tiết kiệm")
+st.title("💰 Ứng dụng tính tiền gửi tiết kiệm-đề tài 3- Phạm Nhật Phước Duyên")
 
 # Nhập dữ liệu
 C = st.number_input(
